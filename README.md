@@ -1,5 +1,5 @@
 # Assignment 1
-#write a program on findout biggest value among 2 numbers
+# write a program on findout biggest value among 2 numbers
 def find_biggest(num1, num2):
     """
     Finds the biggest value among 2 numbers.
